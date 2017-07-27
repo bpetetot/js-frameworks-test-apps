@@ -1,0 +1,15 @@
+.like-btn {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #777;
+}
+
+.liked {
+   color: red;
+}
+
+.material-icons {
+   cursor: pointer;
+   margin-right: 5px;
+}

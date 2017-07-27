@@ -1,0 +1,10 @@
+.title {
+   color: #1DA1F2;
+   text-align: center;
+}
+
+.tweet-list {
+   width: 60%;
+   margin: auto;
+   color: #222;
+}

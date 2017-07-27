@@ -1,0 +1,7 @@
+.tweet {
+   display: flex;
+   justify-content: space-between;
+   border: 1px solid #BBB;
+   margin: 5px;
+   padding: 5px 20px;
+}
